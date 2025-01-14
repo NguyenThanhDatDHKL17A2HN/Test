@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<khach_hang_list>
+    <khach_hang>
+        <ten>Nguyễn Văn A</ten>
+        <dia_chi>Hà Nội</dia_chi>
+        <so_dien_thoai>0123456789</so_dien_thoai>
+    </khach_hang>
+    <khach_hang>
+        <ten>Trần Thị B</ten>
+        <dia_chi>TP Hồ Chí Minh</dia_chi>
+        <so_dien_thoai>0987654321</so_dien_thoai>
+    </khach_hang>
+</khach_hang_list>
